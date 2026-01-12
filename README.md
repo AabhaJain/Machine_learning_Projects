@@ -1,8 +1,6 @@
 # Machine Learning Projects
 
 This repository contains a collection of **machine learning projects built using real-world datasets**.  
-The goal of this repository is to demonstrate the **core skills required for a Data Scientist** through practical, end-to-end examples.
-
 ---
 
 ## Skills Covered
@@ -21,8 +19,6 @@ The goal of this repository is to demonstrate the **core skills required for a D
 - Data cleaning and preprocessing
 - Handling missing values
 - Exploratory Data Analysis (EDA)
-- Feature engineering
-- Data scaling and transformation
 
 ---
 
@@ -41,21 +37,6 @@ The goal of this repository is to demonstrate the **core skills required for a D
 - Train-test split
 - Cross-validation
 - Hyperparameter tuning
-- Preventing overfitting
-
----
-
-### 5. Model Evaluation
-- **Regression metrics:** RMSE, MAE, R²
-- **Classification metrics:** Accuracy, Precision, Recall, F1-score, ROC-AUC
-- Model comparison and selection
-
----
-
-### 6. Time Series Forecasting
-- Trend and seasonality analysis
-- ARIMA and SARIMA models
-- Forecast evaluation
 
 ---
 
@@ -69,4 +50,4 @@ Each project includes:
 ---
 
 ## Purpose
-This repository is created to **practice machine learning concepts** and to **demonstrate the complete workflow of a Data Scientist**, from raw data to actionable insights.
+This repository is created to **practice machine learning concepts** from raw data to actionable insights.
