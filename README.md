@@ -4,52 +4,52 @@ The goal of this repository is to show the core skills required for a Data Scien
 
 # Skills Covered
 # 1. Programming & Tools
-#Python programming
-#Pandas and NumPy for data handling
-#Scikit-learn for machine learning
-#Matplotlib and Seaborn for data visualization
-#Jupyter Notebook
-#Git and GitHub
+*Python programming
+*Pandas and NumPy for data handling
+*Scikit-learn for machine learning
+*Matplotlib and Seaborn for data visualization
+*Jupyter Notebook
+*Git and GitHub
 
 #2. Data Preparation
-#Data cleaning and preprocessing
-#Handling missing values
-#Exploratory Data Analysis (EDA)
-#Feature engineering
-#Data scaling and transformation
+*Data cleaning and preprocessing
+*Handling missing values
+*Exploratory Data Analysis (EDA)
+*Feature engineering
+*Data scaling and transformation
 
 #3. Machine Learning Models
-#Linear Regression-(Ridge, Lasso)
-#Logistic Regression
-#Decision Trees
-#Random Forest
-#Gradient Boosting / XGBoost
-#K-Nearest Neighbors (KNN)
-#Support Vector Machines (SVM)
+*Linear Regression-(Ridge, Lasso)
+*Logistic Regression
+*Decision Tree
+*Random Forest
+*Gradient Boosting / XGBoost
+*K-Nearest Neighbors (KNN)
+*Support Vector Machine (SVM)
 
 #4. Model Training & Tuning
-#Train-test split
-#Cross validation
-#Hyperparameter tuning
-#Prevent overfitting
+*Train-test split
+*Cross validation
+*Hyperparameter tuning
+*Prevent overfitting
 
 #5. Model Evaluation
-#Regression metrics (RMSE, MAE, R²)
-#Classification metrics (Accuracy, Precision, Recall, F1-score, ROC-AUC)
-#Model comparison and selection
+*Regression metrics (RMSE, MAE, R²)
+*Classification metrics (Accuracy, Precision, Recall, F1-score, ROC-AUC)
+*Model comparison and selection
 
 #6. Time Series Forecasting
-#Trend and seasonality analysis
-#ARIMA and SARIMA models
-#Forecast evaluation
+*Trend and seasonality analysis
+*ARIMA and SARIMA models
+*Forecast evaluation
 
 #Project Structure
 #Each project includes:
 
-#Problem statement
-#Dataset description
-#Modeling approach
-#Results and insights
+*Problem statement
+*Dataset description
+*Modeling approach
+*Results and insights
 
 #Purpose
-#This repository is created to practice machine learning and to demonstrate the end-to-end workflow of a Data Scientist, from raw data to final insights.
+*This repository is created to practice machine learning and to demonstrate the end-to-end workflow of a Data Scientist, from raw data to final insights.
